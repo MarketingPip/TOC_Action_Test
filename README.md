@@ -1,8 +1,10 @@
 # TOC_Action_Test
 
-
 <!-- toc -->
 
+- [How to install](#how-to-install)
+- [Authentication](#authentication)
+  * [Test](#test)
 
 <!-- tocstop -->
 
