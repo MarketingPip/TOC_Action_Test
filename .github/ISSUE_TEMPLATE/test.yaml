@@ -1,14 +1,16 @@
 name: Feature request
 description: Suggest an idea for this project
-title: "Feature Request"
-labels: "Feature Request"
+title: "[Feature Request / Suggestion]: "
+labels: ""
 assignees:
   - octocat
 body:
   - type: markdown
     attributes:
       value: |
-        We appreciate your feedback on how to improve this project, please keep in mind this script is meant for EVERYONE'S needs & not just your own. Prior to requesting a new feature, make sure it serve's a purpose for everyone & not just yourself or it will be dismissed.
+        We appreciate your feedback on how to improve this project, please keep in mind this script is meant for EVERYONE'S 
+        needs & not just your own. Prior to requesting a new feature, make sure it serve's a purpose for everyone &
+        not just yourself or it will be dismissed.
   - type: textarea
     id: Suggestion
     attributes:
