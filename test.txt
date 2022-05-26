@@ -1,4 +1,4 @@
 <button>Hello World</button>
 With Text File From Github
 By
-<github-md># Hello World</github-md>
+<md># Hello World</md>
